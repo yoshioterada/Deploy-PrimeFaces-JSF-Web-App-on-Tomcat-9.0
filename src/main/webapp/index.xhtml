@@ -14,14 +14,14 @@
             <div class="header-task" style="margin: 50px; padding: 20px;">
                 <p:outputLabel
                         style="color: #808080; font-size: 2em; position: absolute;top: 50%; -webkit-transform : translateY(-50%); transform : translateY(-50%);"
-                        value="My Tasks from GitHub"/>
+                        value="My Tasks"/>
             </div>
         </p:layoutUnit>
 
         <p:layoutUnit position="center">
             <h:form id="updateForm">
                 <div class="task-lists" style="margin: 50px; padding: 20px;">
-                    <p:outputLabel value="My ToDo List from GitHub Action" style="font-size: 3em;"/>
+                    <p:outputLabel value="My ToDo List" style="font-size: 3em;"/>
                     <p/>
 
                     <p:dataTable id="itemTables" var="item" value="#{todocontroller.todoItems}"
