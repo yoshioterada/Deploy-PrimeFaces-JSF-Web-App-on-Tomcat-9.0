@@ -1,0 +1,9 @@
+<factorypath>
+    <factorypathentry kind="VARJAR" id="M2_REPO/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/glassfish/javax.faces/2.4.0/javax.faces-2.4.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/javax/el/javax.el-api/3.0.1-b04/javax.el-api-3.0.1-b04.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/glassfish/javax.el/3.0.1-b04/javax.el-3.0.1-b04.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/primefaces/primefaces/8.0/primefaces-8.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/jboss/weld/servlet/weld-servlet/2.4.8.Final/weld-servlet-2.4.8.Final.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>
